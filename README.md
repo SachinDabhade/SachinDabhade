@@ -1,7 +1,7 @@
 - 🤞  Portfolio Site: https://portfolio-sachin-dabhade.web.app/#  ☜(ﾟヮﾟ☜) check it..
-- 👋 Hi, I’m @SachinDabhade on github. But, the world says me Sachin Vinayak Dabhade
+- 👋 Hi, I’m @SachinDabhade on github and I love to code in python.
 - 👀 I’m interested in Coding Competition, Open Source Contribution, Competitive Programming, Hackathons and I like to paly with data 🤷‍♂️ don't know why.
-- 🌱 I’m currently pursing B.Tech degree in Data Science and Engineering from R. C. Patel Institution of Technology, Shirpur. (2020 - 2024)
-- 💞️ I’m contributing on open source paltform and kaggal competitions to improve my learning.
+- 🌱 I’m currently pursuing B.Tech degree in Data Science and Engineering from R. C. Patel Institute of Technology, Shirpur. (2020 - 2024)
+- 💞️ I’m contributing to an open source paltform and active on kaggal competitions to improve my learning.
 - 😃 I'm looking to collaborate with a reputed company for the role of Data Scientist.
-- 📫 Actually, all are connected with mind and vibes, but world needs traces [sachindabhade1922@gmail.com] or [+91-9325654147]
+- 📫 Contact = {Email: "sachindabhade1922@gmail.com", Mobile: +91-9325654147}
