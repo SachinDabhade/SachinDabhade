@@ -4,4 +4,5 @@
 - 🌱 I’m currently pursuing B.Tech degree in Data Science and Engineering from R. C. Patel Institute of Technology, Shirpur. (2020 - 2024)
 - 💞️ I’m contributing to an open source paltform and active on kaggal competitions to improve my learning.
 - 😃 I'm looking to collaborate with a reputed company for the role of Data Scientist.
-- 📫 Contact = {Email: "sachindabhade1922@gmail.com", Mobile: +91-9325654147}
+- 📫 if want contact == True:
+-        print("Visit my professional portfolio site. Link is given above")
