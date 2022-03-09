@@ -19,7 +19,8 @@
 - Brand Ambassador at RCPIT
 - OpenSource Contributor at GSSOC
 - OpenSource Contributor at OpenForce 2022
-- Brand Ambassador at The Spark Foundation
+- Brand Ambassador at The Spark Foundation 
+- Intel Brand Ambassador
 
 ## :man_student: Internships
 - Data Science and Business Analysis Intern at The Spark Foundation (Feb-2022)
@@ -28,7 +29,7 @@
 ## :upside_down_face: About Sachin Dabhade
 - 2nd Year Student Pursuing B.Tech degree in Data Science and Engineering from R. C. Patel Institute of Technology, Shirpur.
 - Interested in Data Analysis and Data Science field
-- Love Python and AI/ML
+- Love Python, AI/ML and OpenSource Contribution
 
 ## :smile: Language Used
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SachinDabhade&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
