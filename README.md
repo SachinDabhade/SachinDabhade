@@ -19,7 +19,6 @@
 - Brand Ambassador at RCPIT
 - OpenSource Contributor at GSSOC
 - OpenSource Contributor at OpenForce 2022
-- Brand Ambassador at The Spark Foundation 
 - Intel Brand Ambassador
 
 ## :man_student: Internships
