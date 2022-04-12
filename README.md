@@ -7,7 +7,7 @@
 
 ![Sachin's GitHub stats](https://github-readme-stats.vercel.app/api?username=SachinDabhade&show_icons=true&theme=chartreuse-dark)
 
-## :desktop_computer: Coding Skills 
+## :desktop_computer: Technologies and Coding Skills 
 ![Sachin's GitHub stats](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Sachin's GitHub stats](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
 ![Sachin's GitHub stats](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
