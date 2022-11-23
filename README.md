@@ -21,13 +21,20 @@
 - OpenSource Contributor at OpenForce 2022
 - Intel Brand Ambassador
 
-## :man_student: Internships
-- Data Science and Business Analysis Intern at The Spark Foundation (Feb-2022)
-- Forage and Accenture Virtual Internship (Dec-2021)
+%% :handshake: Open-Source Contribution
+- Successfully contributed to HacktoberFest 2022
+- Top-50 in Open-Source Contributer at OpenForce 2022
+- GSSoC 2022 Contributor
+
+## :man_student: Hackathon
+- Smart India Hackathon 2022 Grand Finalist in Software Edition
+- SUNHACK 2022 International Level Hackathon
+- DataHack National Level Finalist 2022
+- Hacky Holi College Hackathon 2nd Rank
 
 ## :upside_down_face: About Sachin Dabhade
-- 2nd Year Student Pursuing B.Tech degree in Data Science and Engineering from R. C. Patel Institute of Technology, Shirpur.
-- Interested in Data Analysis and Data Science field
+- 3rd Year Student Pursuing B.Tech degree in Data Science and Engineering from R. C. Patel Institute of Technology, Shirpur.
+- Nano Degree in Python for Artificial Intelligence from AWS DeepRacer
 - Love Python, AI/ML and OpenSource Contribution
 
 ## :smile: Language Used
