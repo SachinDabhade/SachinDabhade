@@ -4,8 +4,9 @@
 <p align="center">
   <a href="https://github.com/SachinDabhade/"><img src="https://readme-typing-svg.herokuapp.com?lines=Data+Science+Student;Python%20|%20Machine+Learning%20|%20Deep+Learning;Open+Source+Contributor;Nano-Degree:+Python+for+Artificial+Intelligence&center=true&width=550&height=40"></a>
 </p>
+
 <div align="center">
-<img src='https://img.shields.io/github/followers/SachinDabhade?logo=Github&style=for-the-badge'><img src="https://img.shields.io/github/stars/SachinDabhade?style=for-the-badge">
+<img src='https://img.shields.io/github/followers/SachinDabhade?logo=Github&style=for-the-badge'><img src="https://img.shields.io/github/stars/SachinDabhade?style=for-the-badge"><a href="https://github.com/SachinDabhade/"><img src="https://komarev.com/ghpvc/?username=SachinDabhade&style=for-the-badge"></a>
 </div>
 <!-- <a align="center" href="https://portfolio-sachin-dabhade.web.app/#">![Personal Website](https://img.shields.io/website?style=for-the-badge&up_color=blue&up_message=Personal%20PortFolio&url=https://portfolio-sachin-dabhade.web.app/#)</a> -->
 <br>
