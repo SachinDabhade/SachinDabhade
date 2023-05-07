@@ -2,7 +2,7 @@
 <h2 align="center">:books: B.Tech degree in Data Science and Engineering :books:</h2>
 
 <p align="center">
-  <a href="https://github.com/SachinDabhade/"><img src="https://readme-typing-svg.herokuapp.com?lines=Data+Science+and+Engineering+Student;Python%20|%20Machine+Learning%20|%20Deep+Learning;Open+Source+Contributor;Hackathons;Nano-Degree:+Python+for+Artificial+Intelligence;Learning+Japanese+N5&center=true&width=550&height=40"></a>
+  <a href="https://github.com/SachinDabhade/"><img src="https://readme-typing-svg.herokuapp.com?lines=Data+Science+and+Engineering+Student;Python%20|%20Machine+Learning%20|%20Deep+Learning;Open+Source+Contributor;Club+Head+of+Data+Polaris;Nano-Degree:+Python+for+Artificial+Intelligence;Learning+Japanese+N5&center=true&width=550&height=40"></a>
 </p>
 
 <div align="center">
